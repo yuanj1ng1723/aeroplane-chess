@@ -27,3 +27,8 @@ Python实现简易飞行棋游戏
 2. 安装依赖：
    ```bash
    pip install pygame
+3.运行游戏：
+<pre>
+   bash
+   python dice_game.(2)py
+</pre>
