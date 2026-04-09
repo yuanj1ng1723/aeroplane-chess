@@ -1,5 +1,4 @@
-# Python.1
-Python实现简易飞行棋游戏
+#Python实现简易飞行棋游戏
 # Aeroplane Chess (飞行棋) - Python Pygame Implementation
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
